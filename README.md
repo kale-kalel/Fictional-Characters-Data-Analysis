@@ -1,7 +1,6 @@
-# Fictional-Characters-Data-Analysis
-
+# Trait-Distribution-Analysis-Among-Fictional-Human-Characters
 ## Overview
-This project demonstrates data cleaning and visualization through the analysis of fictional characters. The dataset used can be found on Kaggle, [Super Hero Dataset (Comic Super Hero)](https://www.kaggle.com/datasets/aakashverma8900/superhero-api-dataset).
+This project demonstrates data cleaning and visualization through analyzing the traits of fictional human characters. The dataset used can be found on Kaggle, [Super Hero Dataset (Comic Super Hero)](https://www.kaggle.com/datasets/aakashverma8900/superhero-api-dataset).
 
 ## Project Summary
   1. Certain columns were dropped, and the remaining columns were renamed in a cleaner format.
