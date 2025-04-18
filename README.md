@@ -38,7 +38,7 @@ The attribute analysis among fictional human characters revealed key findings:
     Similar to intelligence, only 13 individuals are classified as top performers in terms of durability. However, the majority of the population falls within the below-average to above-average range, suggesting that humans are not as fragile as
     they may seem.
   * **Power**\
-    With 35 top-performing individuals, power has the highest number of top performers. However, the majority of the population scores within the below-average to above-average range, suggesting that while some
+    With 35 top performing individuals, power has the highest number of top performers. However, the majority of the population scores within the below-average to above-average range, suggesting that while some
     characters exhibit extraordinary power, most are depicted with more average to moderate levels of strength.
   * **Combat**\
     Ranking as the second highest attribute with 19 top performing individuals, a significant number of characters exhibit exceptional combat skills. However, the majority of the population scores within the average to above average range,
